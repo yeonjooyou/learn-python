@@ -1,6 +1,6 @@
 # learn-python
 
-> [파이썬 정복] 예제 및 응용 실습 문제 소스코드 저장소
+> 예제 및 응용 실습 문제 소스코드 저장소
 
 ## Python Textbook
 
@@ -12,12 +12,41 @@
 
 ## Python Exercise
 
-> 교재 예제 코드 저장소
+### python-test
 
+> [파이썬 정복] 교재 예제 소스코드 저장소
 
+* 00_baseTest
+* 01_ifTest
+* 02_forTest
+* 03_whileTest
+* 04_funcTest
+* 05_sequenceTest
+* 06_strTest
+* 07_formatTest
+* 08_listTest
+* 09_tupleTest
+* 10_dicTest
+* 11_setTest
+* 12_collectionmgrTest
+* 13_moduleTest
+* 14_exceptionTest
+* 15_fileTest
+* 16_fobjectTest
 
 
 
 ## Python Laboratory
 
-> 실습 코드 저장소
+### python-lab
+
+> 실습 소스코드 저장소
+
+* lab1(6월30일실습1)
+* lab2(6월30일실습2)
+* lab3(7월1일실습1)
+* lab4(7월2일실습1)
+* lab5(7월12일실습1)
+* lab6(7월13일실습1)
+* lab7(7월13일실습2)
+* lab8(7월14일실습1)
