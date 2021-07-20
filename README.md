@@ -33,6 +33,8 @@
 * 14_exceptionTest
 * 15_fileTest
 * 16_fobjectTest
+* 17_classTest
+* 18_importTest
 
 
 
@@ -50,3 +52,5 @@
 * lab6(7월13일실습1)
 * lab7(7월13일실습2)
 * lab8(7월14일실습1)
+* lab9(7월19일실습1)
+* lab10(7월19일실습2)
