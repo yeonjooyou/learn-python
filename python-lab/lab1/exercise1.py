@@ -1,0 +1,6 @@
+a1 = input('숫자1 입력: ')
+a2 = input('숫자2 입력: ')
+sum = int(a1) + int(a2)
+print(a1,"+",a2,"=",sum)
+multi = int(a1) * int(a2)
+print(a1,"*",a2,"=",multi)
